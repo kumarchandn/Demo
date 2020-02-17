@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\83a16d30014377f90f9c7b2c7f1e9a6e\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\846b9d5e37da0ea8ad6fc50c7c2645cc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\df63aa2239bbc927ce56246debb27ea4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\4900139bdd83278f6d755ca345cfb5f4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\c99143cb5dc74a432193d080bae0907e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\c0e46c07b91ba58d21452245d28c0a26\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\7fbb3106be2e04d0058b349005dcea2a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\72bae2fcdb587983e8fa08d8b1af17a7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\37b74c7f89c31a04ef29b4c5068a4f6c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\4dae12a86af61c20686a5459c4b83ef7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\65408c23eb873d07c55b9a34a2595197\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\b34f44fc21453dc30418bb5cc1c68f36\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\e085ca43750749208767d41dfa131c8c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\35d0969cc3610da53951dcb5c28ac0da\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\50363d16ee2ba23ba83a08d333716fd5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\ed0a012358efcd6791fd3fbe33c30673\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\205367dafd41e0c2c2d75df596035049\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\4146a4f415696b58e75bc3004c044e37\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\f98659769984565e259bf4b30d829547\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\a58eabdc2c69fd7fef0cb64ea7d8ee8c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\41cb0bc939eebb836b91733111c3a7e6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\83a16d30014377f90f9c7b2c7f1e9a6e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\83a16d30014377f90f9c7b2c7f1e9a6e\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\b34f44fc21453dc30418bb5cc1c68f36\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\b34f44fc21453dc30418bb5cc1c68f36\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\35d0969cc3610da53951dcb5c28ac0da\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\35d0969cc3610da53951dcb5c28ac0da\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\b34f44fc21453dc30418bb5cc1c68f36\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.helloworld.MainActivity
+ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\83a16d30014377f90f9c7b2c7f1e9a6e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta3] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\83a16d30014377f90f9c7b2c7f1e9a6e\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\846b9d5e37da0ea8ad6fc50c7c2645cc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\846b9d5e37da0ea8ad6fc50c7c2645cc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\df63aa2239bbc927ce56246debb27ea4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\df63aa2239bbc927ce56246debb27ea4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\4900139bdd83278f6d755ca345cfb5f4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\4900139bdd83278f6d755ca345cfb5f4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\c99143cb5dc74a432193d080bae0907e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\c99143cb5dc74a432193d080bae0907e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\c0e46c07b91ba58d21452245d28c0a26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\c0e46c07b91ba58d21452245d28c0a26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\7fbb3106be2e04d0058b349005dcea2a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\7fbb3106be2e04d0058b349005dcea2a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\72bae2fcdb587983e8fa08d8b1af17a7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\72bae2fcdb587983e8fa08d8b1af17a7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\37b74c7f89c31a04ef29b4c5068a4f6c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\37b74c7f89c31a04ef29b4c5068a4f6c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\4dae12a86af61c20686a5459c4b83ef7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\4dae12a86af61c20686a5459c4b83ef7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\65408c23eb873d07c55b9a34a2595197\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\65408c23eb873d07c55b9a34a2595197\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\b34f44fc21453dc30418bb5cc1c68f36\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\b34f44fc21453dc30418bb5cc1c68f36\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\e085ca43750749208767d41dfa131c8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\e085ca43750749208767d41dfa131c8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\35d0969cc3610da53951dcb5c28ac0da\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\35d0969cc3610da53951dcb5c28ac0da\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\50363d16ee2ba23ba83a08d333716fd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\50363d16ee2ba23ba83a08d333716fd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\ed0a012358efcd6791fd3fbe33c30673\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\ed0a012358efcd6791fd3fbe33c30673\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\205367dafd41e0c2c2d75df596035049\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\205367dafd41e0c2c2d75df596035049\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\4146a4f415696b58e75bc3004c044e37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\4146a4f415696b58e75bc3004c044e37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\f98659769984565e259bf4b30d829547\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\f98659769984565e259bf4b30d829547\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\a58eabdc2c69fd7fef0cb64ea7d8ee8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\a58eabdc2c69fd7fef0cb64ea7d8ee8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\41cb0bc939eebb836b91733111c3a7e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mcalab\.gradle\caches\transforms-2\files-2.1\41cb0bc939eebb836b91733111c3a7e6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mcalab\AndroidStudioProjects\helloworld\app\src\main\AndroidManifest.xml
